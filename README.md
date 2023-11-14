@@ -23,14 +23,16 @@ Here are some ideas to get you started:
 - 📌 I am a Cloud Agnostic Professional.
 - 📌 I built my own private cloud.
 - 📌 I worked on 100+ projects and 1000+ application based on server, container and serverless technology and deployed in the cloud.
-- :skier: I'm currently learning Azure and AKS.
+- :skier: Casual contributor to open source technology.
+- 👯 I’m looking to collaborate on multi cloud integratration.
+- 🌱 I'm currently learning Azure and AKS.
 - 💬 Ask me about any blog post that you want me to write.
 
 <br/>
 
 ### My latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Centralizing your cdk (ECS) pipeline in AWS]([https://imransaifi.hashnode.dev/is-devops-dead-debunking-the-myth-and-embracing-the-evolution](https://medium.com/@ripon-banik/centralizing-your-cdk-pipeline-in-aws-c273f9ba12d1))
+- [Centralizing your cdk (ECS) pipeline in AWS](https://medium.com/@ripon-banik/centralizing-your-cdk-pipeline-in-aws-c273f9ba12d1)
 - [AWS cdk permission boundry](https://medium.com/@ripon-banik/cdk-permission-boundry-364d82ee2d0d)
 - [AWS DataLake — Getting Started](https://medium.com/@ripon-banik/aws-datalake-getting-started-3f9c01229efd)
 - [Cloud Native Server Management in Azure](https://medium.com/@ripon-banik/cloud-native-server-management-in-azure-576955f4eab5)
