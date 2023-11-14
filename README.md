@@ -1,5 +1,6 @@
 ### Hi This is Ripon Banik 👋
-![](https://github.com/riponbanik/riponbanik/blob/main/AboutMe.png)
+
+![](https://github.com/riponbanik/riponbanik/blob/master/AboutMe.png)
 
 <!--
 **riponbanik/riponbanik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
