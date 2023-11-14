@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - 📌 I am hybrid cloud professional with expereince in both public and private cloud.
 - 📌 I am a Cloud Agnostic Professional.
 - 📌 I built my own private cloud.
-- 📌 I worked on 100+ projects and 1000+ application based on server, container and serverless technology and deployed in the cloud.
+- 📌 I worked on 100+ projects and 1000+ application based on server, container and serverless technology in the cloud.
 - :skier: Casual contributor to open source technology.
 - 👯 I’m looking to collaborate on multi cloud integratration.
 - 🌱 I'm currently learning Azure and AKS.
