@@ -17,4 +17,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+- 📌 I’m a Cloud and DevOps enthusiatics, helping business with their cloud management and operation need.
+- 📌 I am hybrid cloud professional with expereince in both public and private cloud.
+- :skier: I'm currently working with Kubernetes, Docker, Ansible, AWS, Jenkins, Terraform, CI/CD, Git & GitHub
+- ⚡ Fun fact: My friends call me Banik which is my last name
+
 
