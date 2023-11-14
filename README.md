@@ -17,9 +17,30 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+### About Me
 - 📌 I’m a Cloud and DevOps enthusiatics, helping business with their cloud management and operation need.
 - 📌 I am hybrid cloud professional with expereince in both public and private cloud.
-- :skier: I'm currently working with Kubernetes, Docker, Ansible, AWS, Jenkins, Terraform, CI/CD, Git & GitHub
-- ⚡ Fun fact: My friends call me Banik which is my last name
+- 📌 I am a Cloud Agnostic Professional.
+- 📌 I built my own private cloud.
+- 📌 I worked on 100+ projects and 1000+ application based on server, container and serverless technology and deployed in the cloud.
+- :skier: I'm currently learning Azure and AKS.
+- 💬 Ask me about any blog post that you want me to write.
+
+<br/>
+
+### My latest blog posts
+<!-- BLOG-POST-LIST:START -->
+- [Centralizing your cdk (ECS) pipeline in AWS]([https://imransaifi.hashnode.dev/is-devops-dead-debunking-the-myth-and-embracing-the-evolution](https://medium.com/@ripon-banik/centralizing-your-cdk-pipeline-in-aws-c273f9ba12d1))
+- [AWS cdk permission boundry](https://medium.com/@ripon-banik/cdk-permission-boundry-364d82ee2d0d)
+- [AWS DataLake — Getting Started](https://medium.com/@ripon-banik/aws-datalake-getting-started-3f9c01229efd)
+- [Cloud Native Server Management in Azure](https://medium.com/@ripon-banik/cloud-native-server-management-in-azure-576955f4eab5)
+- [Cloud Native Server Management in AWS](https://medium.com/@ripon-banik/deep-dive-of-server-management-in-aws-512040ef63f4)
+<!-- BLOG-POST-LIST:END -->
+
+## 🌐 Connect with me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/riponbanik) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/ripon_banik) 
+
+<br/>  
+
 
 
